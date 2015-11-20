@@ -2,8 +2,11 @@
   -Search
   -Google Places API
   -Nav Bar
+    --Search field
 
 2) User Sign Up / Local Auth
+  -Admin users
+    --Allow delete for admins
 
 3) Standard City Layout
   -City Data from API?
@@ -21,4 +24,4 @@
 
 6) Article Hierarchy / Organization
 
-gt
+Colors: #29A064, #1C6D44, #2CAD6C

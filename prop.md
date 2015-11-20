@@ -20,13 +20,14 @@ An underlying goal is to impose minimal standards on the information that reside
 
 - Google Maps
 - Google Places Autocomplete API
+- Weather API
 
 ## MVP
 
 * Dynamically generate a standard layout for cities (probably focus on less * than 5 from the beginning)
 * Allow users to create an 'article' on a specific topic
 * Allow users to edit existing articles
-* Organize and categorize created articles within a logical hierarchy
+* Organize and categorize created articles within a logical hierarchy intially based on tags
 
 ## Additional features
 
