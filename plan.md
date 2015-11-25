@@ -10,8 +10,14 @@
 
 3) Standard City Layout
   -City Data from API?
-    --Weather?
+    --Name and Weather in title
   -Temp Article Div, unorganized
+  -recently added articles stream
+  -popular articles
+  -create article
+  -side nav
+  -city data in side
+
 
 4) Article Creation
   -Page w/ Word Processor to HTML
